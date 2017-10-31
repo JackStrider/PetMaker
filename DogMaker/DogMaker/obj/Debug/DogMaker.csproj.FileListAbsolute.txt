@@ -19,3 +19,10 @@ Z:\OOP\DogMaker\DogMaker\obj\Debug\DogMaker.csprojResolveAssemblyReference.cache
 Z:\OOP\DogMaker\DogMaker\obj\Debug\DogMaker.csproj.CoreCompileInputs.cache
 Z:\OOP\DogMaker\DogMaker\obj\Debug\DogMaker.exe
 Z:\OOP\DogMaker\DogMaker\obj\Debug\DogMaker.pdb
+C:\Users\Will\Documents\GitHub\PetMaker\DogMaker\DogMaker\bin\Debug\DogMaker.exe.config
+C:\Users\Will\Documents\GitHub\PetMaker\DogMaker\DogMaker\bin\Debug\DogMaker.exe
+C:\Users\Will\Documents\GitHub\PetMaker\DogMaker\DogMaker\bin\Debug\DogMaker.pdb
+C:\Users\Will\Documents\GitHub\PetMaker\DogMaker\DogMaker\obj\Debug\DogMaker.csprojResolveAssemblyReference.cache
+C:\Users\Will\Documents\GitHub\PetMaker\DogMaker\DogMaker\obj\Debug\DogMaker.csproj.CoreCompileInputs.cache
+C:\Users\Will\Documents\GitHub\PetMaker\DogMaker\DogMaker\obj\Debug\DogMaker.exe
+C:\Users\Will\Documents\GitHub\PetMaker\DogMaker\DogMaker\obj\Debug\DogMaker.pdb
